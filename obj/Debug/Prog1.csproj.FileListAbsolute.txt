@@ -1,0 +1,20 @@
+C:\Users\Alain Kagaba\Documents\College\CIS 199\Programs\Prog1\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\Alain Kagaba\Documents\College\CIS 199\Programs\Prog1\Prog1\bin\Debug\Prog1.exe
+C:\Users\Alain Kagaba\Documents\College\CIS 199\Programs\Prog1\Prog1\bin\Debug\Prog1.pdb
+C:\Users\Alain Kagaba\Documents\College\CIS 199\Programs\Prog1\Prog1\obj\Debug\Prog1.csprojAssemblyReference.cache
+C:\Users\Alain Kagaba\Documents\College\CIS 199\Programs\Prog1\Prog1\obj\Debug\Prog1.Program1.resources
+C:\Users\Alain Kagaba\Documents\College\CIS 199\Programs\Prog1\Prog1\obj\Debug\Prog1.Properties.Resources.resources
+C:\Users\Alain Kagaba\Documents\College\CIS 199\Programs\Prog1\Prog1\obj\Debug\Prog1.csproj.GenerateResource.cache
+C:\Users\Alain Kagaba\Documents\College\CIS 199\Programs\Prog1\Prog1\obj\Debug\Prog1.csproj.CoreCompileInputs.cache
+C:\Users\Alain Kagaba\Documents\College\CIS 199\Programs\Prog1\Prog1\obj\Debug\Prog1.exe
+C:\Users\Alain Kagaba\Documents\College\CIS 199\Programs\Prog1\Prog1\obj\Debug\Prog1.pdb
+C:\Users\Alain Kagaba\OneDrive\Documents\College\CIS 199\Programs\Program 1\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\Alain Kagaba\OneDrive\Documents\College\CIS 199\Programs\Program 1\Prog1\bin\Debug\Prog1.exe
+C:\Users\Alain Kagaba\OneDrive\Documents\College\CIS 199\Programs\Program 1\Prog1\bin\Debug\Prog1.pdb
+C:\Users\Alain Kagaba\OneDrive\Documents\College\CIS 199\Programs\Program 1\Prog1\obj\Debug\Prog1.csprojAssemblyReference.cache
+C:\Users\Alain Kagaba\OneDrive\Documents\College\CIS 199\Programs\Program 1\Prog1\obj\Debug\Prog1.Program1.resources
+C:\Users\Alain Kagaba\OneDrive\Documents\College\CIS 199\Programs\Program 1\Prog1\obj\Debug\Prog1.Properties.Resources.resources
+C:\Users\Alain Kagaba\OneDrive\Documents\College\CIS 199\Programs\Program 1\Prog1\obj\Debug\Prog1.csproj.GenerateResource.cache
+C:\Users\Alain Kagaba\OneDrive\Documents\College\CIS 199\Programs\Program 1\Prog1\obj\Debug\Prog1.csproj.CoreCompileInputs.cache
+C:\Users\Alain Kagaba\OneDrive\Documents\College\CIS 199\Programs\Program 1\Prog1\obj\Debug\Prog1.exe
+C:\Users\Alain Kagaba\OneDrive\Documents\College\CIS 199\Programs\Program 1\Prog1\obj\Debug\Prog1.pdb
